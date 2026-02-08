@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-**📁 Dataset- IP102 Rice Pest Image Dataset (Curated Subset)**
 The dataset used in this project is very large, so it is hosted on Google Drive instead of GitHub.
 
 🔗 👉 **[Download Dataset](https://drive.google.com/drive/folders/1OfmkGZ-2pkP_wp_dwrON5mzNlKeK81fN?usp=sharing)**
