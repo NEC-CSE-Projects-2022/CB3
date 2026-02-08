@@ -6,10 +6,10 @@
 _Work Done:  Project Lead; Model Selection, Training, Evaluation, Model Building and overall System Integration, Frontend, Documentation, Deployment.
 
 - 22471A05F4 — **Eerlapti Lakshmaiah** ( [LinkedIn](https://www.linkedin.com/in/eerlapati-lakshmaiah-49897b324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) )
-_Work Done: Feature Engineering, PPT
+_Work Done: Feature Engineering, PPT.
 
 - 22471A05L0 — **Yepuri Teja Naga Anil Kumar** ( [LinkedIn](https://www.linkedin.com/in/teja-yepuri-51523534b?utm_source=share_via&utm_content=profile&utm_medium=member_android) )
-_Work Done: Performance Analysis, Research Analysis
+_Work Done: Performance Analysis, Research Analysis.
 
 
 ---
