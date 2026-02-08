@@ -45,14 +45,7 @@ performance ensured.
 ---
 
 ## Paper Reference (Inspiration)
-👉 **[Paper Title SignSight : A Robust Deep Vision Framework for Real-Time 
-Perception of Traffic Sign Under Adverse Weather Conditions
-  – Author Names Nallamothu Vinay
-, Venkata Reddy Dodda
-, Venkata Rao Marella
-, Lakshmaiah Eerlapati
-,
-Teja Naga Anil Kumar Yepuri
+👉 **[Paper Title Grounding DINO and distillation-enhanced model for advanced traffic sign detection and classification in autonomous vehicles
  ](https://www.sciencedirect.com/science/article/pii/S2215098625000837)**
 Original conference/IEEE paper used as inspiration for the model.
 
