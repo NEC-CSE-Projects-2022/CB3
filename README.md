@@ -57,6 +57,8 @@ The proposed system improves traditional traffic sign recognition approaches by 
 ---
 
 ## About the Project
+
+
 The project develops an intelligent system that automatically detects and recognizes traffic signs from images, videos, or live camera input. It uses deep learning techniques to identify different types of traffic signs and display their meaning in real time. The system is designed to work accurately even in challenging conditions such as poor lighting, bad weather, or complex road environments. This system helps improve road safety by assisting drivers and autonomous vehicles in understanding traffic signs correctly and quickly. It reduces the chances of human error, helps drivers follow traffic rules, and supports advanced driver assistance systems. It can also be used in smart transportation systems and driver training applications. The system first takes input in the form of an image, video, or live camera feed. The input is then processed using image enhancement and preprocessing techniques to improve visibility and quality. The processed data is passed to a trained deep learning model that detects and classifies the traffic signs. Finally, the system produces an output by displaying the detected traffic sign along with its label and highlighting it visually on the image or video frame.
 ---
 
